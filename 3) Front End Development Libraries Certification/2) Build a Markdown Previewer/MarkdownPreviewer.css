@@ -1,0 +1,36 @@
+body { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background: #E5E5E5;
+   }
+  
+  .main {
+    display: grid ; 
+    grid-gap: 15px ; 
+    margin-top: 40px ; 
+    grid-template-columns: 1fr  ;
+    color: #000000
+  }
+  
+  #editor, #preview {
+    padding: 15px ;
+    background-color: #839073;
+  }
+  
+  #editor { 
+  min-height: 300px ;
+    font-weight: Bold;
+    color: #000000;
+ }
+  
+  pre, code {
+    background-color: #7CAE7A ;
+    
+  }
+  
+  
+  @media(min-width: 992px) { 
+    .main {
+      grid-template-columns: 1fr 1fr
+    }}
