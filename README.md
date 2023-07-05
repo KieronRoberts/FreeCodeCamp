@@ -1,6 +1,6 @@
- # FreeCodeCamp Challenges
+# FreeCodeCamp Challenges
 
-  This repository contains a collection of certification challenges from FreeCodeCamp, a non-profit organisation that offers a comprehensive curriculum for learning web development and other programming skills.
+This repository contains a collection of certification challenges from FreeCodeCamp, a non-profit organisation that offers a comprehensive curriculum for learning web development and other programming skills.
 
 ## Table of Contents
 
@@ -24,30 +24,26 @@ I am a Junior Software developer working mainly with Mircosoft PowerPlatforms, t
 
 ## My Reasons For Completing these Challenges
 
-  Structured Curriculum:
-  
-  FreeCodeCamp will provided me well-structured curriculum that covers a wide range of web development topics. By completing the challenges, I am following a logical progression and ensure that I learn essential concepts and skills of web development.
+- Structured Curriculum:
+FreeCodeCamp will provided me well-structured curriculum that covers a wide range of web development topics. By completing the challenges, I am following a logical progression and ensure that I learn essential concepts and skills of web development.
 
-  Hands-on Practice: 
-  
-  These challenges offer hands-on coding exercises that will reinforce my understanding of the concepts that I have learnt. They also provide an opportunity to apply what what I have learned in a practical context, helping you build real-world coding skills.
+- Hands-on Practice: 
+These challenges offer hands-on coding exercises that will reinforce my understanding of the concepts that I have learnt. They also provide an opportunity to apply what what I have learned in a practical context, helping you build real-world coding skills.
 
-  Certifications: 
-  
-  FreeCodeCamp offers certifications upon completion of each major section of their curriculum. These certifications serve as tangible evidence of your skills and knowledge in specific areas of web development.
+- Certifications: 
+FreeCodeCamp offers certifications upon completion of each major section of their curriculum. These certifications serve as tangible evidence of your skills and knowledge in specific areas of web development.
 
-  Portfolio Building: 
-  
-  By completing the challenges, I will enhance the portfolio of projects that showcase my coding abilities. 
+- Portfolio Building: 
+By completing the challenges, I will enhance the portfolio of projects that showcase my coding abilities. 
 
 ## Currently Completed Certificates
 
-  Responsive Web Design
-  
-  JavaScript Algorithms and Data Structures
-  
-  Front End Development Libraries
+Responsive Web Design
+
+JavaScript Algorithms and Data Structures
+
+Front End Development Libraries
 
 ## Profile Link
 
-  https://www.freecodecamp.org/KieronRoberts
+https://www.freecodecamp.org/KieronRoberts
