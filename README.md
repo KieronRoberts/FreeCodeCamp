@@ -1,4 +1,4 @@
-# <img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/KieronRoberts/FreeCodeCamp/assets/107185233/9017de93-c0f3-4aca-bf89-29566d788f0d)" width="50" height="50"> FreeCodeCamp Challenges
+# <img src="https://github.com/KieronRoberts/FreeCodeCamp/assets/107185233/9017de93-c0f3-4aca-bf89-29566d788f0d" width="50" height="50"> FreeCodeCamp Challenges
 
 This repository contains a collection of certification challenges from FreeCodeCamp, a non-profit organisation that offers a comprehensive curriculum for learning web development and other programming skills.
 
