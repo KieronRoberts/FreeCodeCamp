@@ -22,6 +22,8 @@ This repository contains a collection of certification challenges from FreeCodeC
 
 I am a Junior Software developer working mainly with Mircosoft PowerPlatforms, this repository is part of a larger portfolio I am developing as part of my personal education whilst transtioning from low-code development.
 
+[Find my LinkedIn](https://www.linkedin.com/in/kieronroberts1/)
+
 ## My Reasons For Completing these Challenges
 
 - Structured Curriculum:
