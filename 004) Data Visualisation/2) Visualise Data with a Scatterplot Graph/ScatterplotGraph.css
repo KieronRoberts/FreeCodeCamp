@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: #E5E5E5;
+    text-align: center;
+  }
+  
+  #chart {
+    margin: 40px;
+    position: relative;
+  }
+  
+  .dot {
+    fill: steelblue;
+    stroke: #333;
+    stroke-width: 1px;
+    opacity: 0.7;
+  }
+  
+  #tooltip {
+    position: absolute;
+    display: none;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    font-size: 14px;
+    pointer-events: none;
+  }
